@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "el oso gomez",
+      "empresa": "ogr",
+      "email": "ogr@hotmail.com",
+      "telefono": "3187683510",
+      "notas": "registro editado",
+      "id": 1
+    },
+    {
+      "nombre": "deli rojas",
+      "empresa": "ogr",
+      "email": "delirojas2612@gmail.com",
+      "telefono": "3184101762",
+      "notas": "balsera",
+      "id": 3
+    }
+  ]
+}
